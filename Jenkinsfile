@@ -23,6 +23,7 @@ pipeline
                     resultMult = numero1*numero2
                     resultDiv = numero1/numero2
                     resultadoAritmeticas = resultadoAritmeticas + "numero1 = " + numero1 + "\n" + "numero2 = " + numero2 + "\n" + "Suma: " + resultSum + "\n" + "Resta: " + resultRes + "\n" + "Multiplicacion: " + resultMult + "\n" + "Division: " + resultDiv + "\n"
+                    echo resultadoAritmeticas
                 }
             }
         }
