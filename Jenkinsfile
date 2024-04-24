@@ -11,8 +11,7 @@ pipeline
                     resultRes = numero1 - numero2
                     resultMult = numero1*numero2
                     resultDiv = numero1/numero2
-                    echo "numero1 = " + numero1 + "\n" + "numero2 = " + numero2 + "\n" + "Suma: " + resultSum + "\n" + "Resta: " + resultRes + "\n" + "Multiplicación: " 
-                    + resultMult + "\n" + "División: " + resultDiv + "\n"
+                    echo "numero1 = " + numero1 + "\n" + "numero2 = " + numero2 + "\n" + "Suma: " + resultSum + "\n" + "Resta: " + resultRes + "\n" + "Multiplicacion: " + resultMult + "\n" + "Division: " + resultDiv + "\n"
                 }
             }
         }
